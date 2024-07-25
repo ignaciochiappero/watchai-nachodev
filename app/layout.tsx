@@ -8,8 +8,8 @@ const inter = Inter({ subsets: ['latin'] })
 const rm = Roboto_Mono({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'WatchtowerAI',
-  description: '24x7 surveillance',
+  title: 'nIA cAM | Nacho Dev',
+  description: 'Desarrollado por Nacho Dev',
 }
 
 export default function RootLayout({
